@@ -1,4 +1,4 @@
-# 🚛 FleetX
+x# FleetX
 
 > **Smart Fleet Operations Platform**
 
@@ -8,27 +8,27 @@ The goal is to build an intuitive, enterprise-grade platform that enables organi
 
 ---
 
-## ✨ Vision
+## Vision
 
 FleetX is designed to be more than a fleet management application. Our vision is to build a command center that provides complete visibility into fleet operations while maintaining a clean, modern, and responsive user interface.
 
 ---
 
-## 🚀 Core Features
+## Core Features
 
-- 🔐 Secure Authentication with Role-Based Access Control
-- 🚛 Fleet & Vehicle Management
-- 👨‍✈️ Driver Management
-- 📍 Smart Trip Dispatching
-- 🛠 Vehicle Maintenance Workflow
-- ⛽ Fuel & Expense Tracking
-- 📊 Operational Analytics Dashboard
-- 📄 Reports & Data Export
-- 📱 Responsive Enterprise UI
+- Secure Authentication with Role-Based Access Control
+- Fleet & Vehicle Management
+- Driver Management
+- Smart Trip Dispatching
+- Vehicle Maintenance Workflow
+- Fuel & Expense Tracking
+- Operational Analytics Dashboard
+- Reports & Data Export
+- Responsive Enterprise UI
 
 ---
 
-## 🏗️ Planned Workflow
+## Planned Workflow
 
 ```text
 Login
@@ -48,7 +48,7 @@ Reports
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 ### Frontend
 - React + Vite
@@ -72,9 +72,9 @@ Reports
 
 ---
 
-## 📁 Project Structure
+## Project Structure
 
-```
+```text
 FleetX
 │
 ├── frontend/
@@ -88,7 +88,7 @@ FleetX
 
 ---
 
-## 🎯 Project Objectives
+## Project Objectives
 
 - Deliver a modern enterprise-grade fleet management platform.
 - Enforce real-world business rules for transport operations.
@@ -98,7 +98,7 @@ FleetX
 
 ---
 
-## 📌 Development Roadmap
+## Development Roadmap
 
 - [x] Project planning & architecture
 - [ ] Database design
@@ -115,12 +115,12 @@ FleetX
 
 ---
 
-## 👥 Team
+## Team
 
 Developed during an 8-hour hackathon as a solution to the **TransitOps Smart Transport Operations Platform** challenge.
 
 ---
 
-## 📄 License
+## License
 
 This project is developed solely for educational and hackathon purposes.
