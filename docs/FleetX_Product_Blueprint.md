@@ -53,3 +53,37 @@ FleetX is built upon the following principles:
 - Data-driven decision making through centralized operational data.
 - Enterprise-grade scalability, security, and maintainability.
 - Clean, intuitive, and professional user experience focused on operational efficiency.
+
+---
+
+# 3. Problem Statement & Industry Analysis
+
+## Problem Statement
+
+The logistics and transportation industry is one of the largest operational sectors in the world, yet many organizations continue to rely on fragmented tools such as spreadsheets, phone calls, messaging applications, paper records, and multiple disconnected software systems to manage their daily fleet operations.
+
+As fleet size grows, operational complexity increases significantly. Dispatchers struggle to allocate vehicles efficiently, managers lack real-time visibility into fleet activities, maintenance schedules are often missed, fuel costs become difficult to monitor, and decision-making depends heavily on manual coordination.
+
+These fragmented workflows result in:
+
+- Low fleet utilization
+- Increased operational costs
+- Delayed deliveries
+- Poor shipment visibility
+- Inefficient driver allocation
+- Missed preventive maintenance
+- Higher fuel consumption
+- Limited operational insights
+- Reduced customer satisfaction
+
+Existing fleet management solutions often address only specific operational areas such as vehicle tracking or maintenance, requiring organizations to integrate multiple systems to manage complete logistics operations.
+
+FleetX addresses this challenge by providing a unified Logistics Operations Platform that centralizes shipment planning, dispatch, fleet management, driver management, trip execution, maintenance, compliance, analytics, and future AI-powered decision support into a single scalable ecosystem.
+
+---
+
+## Industry Context
+
+Modern logistics organizations require more than simple fleet tracking. They require an operational platform capable of coordinating people, vehicles, shipments, and business decisions in real time.
+
+FleetX is designed around this operational mindset, enabling organizations to improve operational efficiency while creating a strong foundation for automation, predictive analytics, and intelligent decision support.
