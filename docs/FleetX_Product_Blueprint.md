@@ -444,3 +444,102 @@ The AI capabilities of FleetX follow these principles:
 - Human users retain final approval for critical operational decisions.
 - AI features are modular and can be enabled independently.
 
+---
+
+# 8. Product Roadmap & Future Scope
+
+FleetX will be developed in multiple phases, with each phase delivering measurable business value while maintaining a scalable architecture.
+
+## Phase 1 — Minimum Viable Product (MVP)
+
+The MVP focuses on establishing the core logistics operations platform.
+
+### Features
+
+- Organization & User Management
+- Authentication & Role-Based Access Control
+- Shipment Management
+- Dispatch Center
+- Fleet Management
+- Driver Management
+- Trip Management
+- Maintenance Management
+- Fuel Management
+- Compliance & Documents
+- Operations Dashboard
+- Reports & Analytics
+- Notifications
+
+---
+
+## Phase 2 — Operational Intelligence
+
+The second phase introduces deeper operational visibility and smarter workflows.
+
+### Features
+
+- Advanced Analytics
+- KPI Dashboards
+- Fleet Performance Reports
+- Driver Performance Reports
+- Fuel Analytics
+- Maintenance Analytics
+- Automated Notifications
+- Document Expiry Alerts
+- Multi-Branch Support
+
+---
+
+## Phase 3 — AI Platform
+
+FleetX evolves into an intelligent decision-support platform.
+
+### Features
+
+- AI Dispatch Recommendations
+- Predictive Maintenance
+- Intelligent Route Optimization
+- Driver Performance Intelligence
+- Fleet Health Scoring
+- AI Operations Assistant
+
+---
+
+## Phase 4 — Enterprise Platform
+
+FleetX expands into a fully integrated enterprise logistics platform.
+
+### Features
+
+- Live GPS Tracking
+- IoT Device Integration
+- ERP Integration
+- Accounting Integration
+- Warehouse Integration
+- Customer Portal
+- Mobile Applications
+- Public APIs
+- Multi-Tenant SaaS Deployment
+
+---
+
+# Long-Term Vision
+
+FleetX aims to become a comprehensive AI-powered logistics operations platform capable of managing the complete lifecycle of logistics operations—from shipment planning and dispatch to operational analytics and intelligent decision support.
+
+The platform is designed to scale from small logistics businesses to enterprise fleet operators without requiring architectural redesign.
+
+---
+
+# Success Metrics
+
+The success of FleetX will be measured by its ability to:
+
+- Improve fleet utilization.
+- Reduce operational costs.
+- Increase on-time deliveries.
+- Reduce vehicle downtime.
+- Improve operational visibility.
+- Enable data-driven decision-making.
+- Provide a scalable and maintainable platform for logistics organizations.
+
