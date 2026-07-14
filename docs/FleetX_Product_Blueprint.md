@@ -183,3 +183,168 @@ FleetX aims to evolve into an intelligent operations platform by introducing AI-
 - Fleet health monitoring.
 - Driver performance analysis.
 - Natural language operational assistant.
+
+---
+
+# 6. Core Modules
+
+FleetX is organized into modular functional units. Each module is designed to operate independently while seamlessly integrating with the overall platform architecture.
+
+## 1. Authentication & Organization
+
+Manages companies, users, authentication, roles, permissions, and organization settings.
+
+### Key Features
+
+- Company Registration
+- User Management
+- Role-Based Access Control (RBAC)
+- Authentication
+- Organization Settings
+
+---
+
+## 2. Shipment Management
+
+The core module responsible for managing customer shipment requests throughout their lifecycle.
+
+### Key Features
+
+- Shipment Creation
+- Pickup & Delivery Details
+- Shipment Priority
+- Shipment Status Tracking
+- Delivery Deadlines
+- Shipment History
+
+---
+
+## 3. Dispatch Center
+
+Coordinates shipment execution by assigning drivers and vehicles.
+
+### Key Features
+
+- Trip Planning
+- Vehicle Assignment
+- Driver Assignment
+- Dispatch Approval
+- Route Planning
+- Dispatch Monitoring
+
+---
+
+## 4. Fleet Management
+
+Manages all company vehicles and their operational information.
+
+### Key Features
+
+- Vehicle Registry
+- Vehicle Status
+- Capacity Management
+- Registration Details
+- Insurance
+- Permits
+- Vehicle Documents
+
+---
+
+## 5. Driver Management
+
+Maintains driver information and operational availability.
+
+### Key Features
+
+- Driver Profiles
+- License Management
+- Availability Status
+- Driver Assignment
+- Performance Tracking
+- Emergency Contacts
+
+---
+
+## 6. Trip Management
+
+Tracks and manages active, scheduled, and completed trips.
+
+### Key Features
+
+- Trip Lifecycle
+- Live Trip Status
+- Route Information
+- ETA Tracking
+- Delivery Confirmation
+- Trip History
+
+---
+
+## 7. Maintenance Management
+
+Maintains vehicle health through preventive and corrective maintenance.
+
+### Key Features
+
+- Maintenance Scheduling
+- Service History
+- Repair Records
+- Work Orders
+- Maintenance Alerts
+
+---
+
+## 8. Fuel Management
+
+Tracks vehicle fuel consumption and related operational costs.
+
+### Key Features
+
+- Fuel Entries
+- Mileage Tracking
+- Fuel Consumption
+- Fuel Cost Analysis
+
+---
+
+## 9. Compliance & Documents
+
+Centralized document management for vehicles and drivers.
+
+### Key Features
+
+- RC Management
+- Insurance Tracking
+- Fitness Certificates
+- Permits
+- Driver Licenses
+- Expiry Alerts
+
+---
+
+## 10. Analytics & Reports
+
+Provides operational insights through dashboards and reports.
+
+### Key Features
+
+- Operational Dashboard
+- Fleet KPIs
+- Driver Performance
+- Shipment Analytics
+- Cost Analysis
+- Exportable Reports
+
+---
+
+## 11. Notifications
+
+Delivers important operational alerts to users.
+
+### Key Features
+
+- Maintenance Alerts
+- Shipment Updates
+- Trip Notifications
+- Document Expiry Alerts
+- System Notifications
