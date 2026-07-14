@@ -348,3 +348,99 @@ Delivers important operational alerts to users.
 - Trip Notifications
 - Document Expiry Alerts
 - System Notifications
+
+---
+
+# 7. AI Modules
+
+Artificial Intelligence in FleetX is designed to enhance operational decision-making rather than replace existing workflows. AI modules will be introduced progressively as the platform matures and sufficient operational data becomes available.
+
+## 1. AI Dispatch Assistant
+
+Analyzes shipment requirements, vehicle availability, driver availability, capacity, and operational constraints to recommend the most suitable vehicle-driver assignment.
+
+### Capabilities
+
+- Smart vehicle recommendation
+- Smart driver recommendation
+- Capacity validation
+- Dispatch optimization
+
+---
+
+## 2. Predictive Maintenance
+
+Uses historical maintenance records, mileage, vehicle age, and operational usage to predict maintenance requirements before failures occur.
+
+### Capabilities
+
+- Maintenance prediction
+- Component health estimation
+- Maintenance reminders
+- Vehicle health scoring
+
+---
+
+## 3. Intelligent Route Optimization
+
+Recommends efficient delivery routes by considering operational constraints and external factors.
+
+### Capabilities
+
+- Distance optimization
+- Estimated travel time
+- Multi-stop route planning
+- Dynamic rerouting (future)
+
+---
+
+## 4. Driver Performance Intelligence
+
+Analyzes driver operational data to generate objective performance insights.
+
+### Capabilities
+
+- Driver performance score
+- Trip completion analysis
+- Driving efficiency metrics
+- Performance trends
+
+---
+
+## 5. Fleet Health Intelligence
+
+Provides a consolidated operational health overview of the entire fleet.
+
+### Capabilities
+
+- Fleet health score
+- Vehicle utilization analysis
+- Downtime analysis
+- Maintenance trends
+
+---
+
+## 6. AI Operations Assistant
+
+A conversational assistant that enables users to retrieve operational insights using natural language.
+
+Example queries:
+
+- Which vehicles require maintenance this week?
+- Show delayed shipments.
+- Which driver completed the most deliveries today?
+- Generate today's operational summary.
+- Show vehicles with low utilization.
+
+---
+
+## AI Design Principles
+
+The AI capabilities of FleetX follow these principles:
+
+- AI supports operational decisions rather than replacing users.
+- Recommendations are explainable and transparent.
+- AI is built on verified operational data.
+- Human users retain final approval for critical operational decisions.
+- AI features are modular and can be enabled independently.
+
