@@ -87,3 +87,51 @@ FleetX addresses this challenge by providing a unified Logistics Operations Plat
 Modern logistics organizations require more than simple fleet tracking. They require an operational platform capable of coordinating people, vehicles, shipments, and business decisions in real time.
 
 FleetX is designed around this operational mindset, enabling organizations to improve operational efficiency while creating a strong foundation for automation, predictive analytics, and intelligent decision support.
+
+---
+
+# 4. Target Market & User Personas
+
+## Primary Target Market
+
+FleetX is primarily designed for logistics and goods transportation companies that manage commercial fleets for transporting goods across cities, states, or countries.
+
+These organizations require a centralized platform to efficiently manage shipments, dispatch operations, vehicles, drivers, maintenance, fuel consumption, compliance, and operational analytics.
+
+### Target Customers
+
+- Third-Party Logistics (3PL) Companies
+- Freight & Cargo Operators
+- E-commerce Logistics Providers
+- Courier & Parcel Delivery Companies
+- Distribution & Supply Chain Companies
+- Manufacturing Companies with In-house Logistics
+- Cold Chain Logistics Providers
+
+---
+
+## User Personas
+
+### 1. Company Administrator
+
+Responsible for configuring the organization, managing users, assigning roles, and monitoring overall business operations.
+
+### 2. Fleet Manager
+
+Oversees vehicles, drivers, maintenance schedules, compliance documents, and fleet performance.
+
+### 3. Dispatcher
+
+Plans shipments, assigns vehicles and drivers, creates trips, and monitors delivery progress.
+
+### 4. Driver
+
+Receives assigned trips, updates trip status, uploads proof of delivery, and reports vehicle issues.
+
+### 5. Maintenance Manager
+
+Schedules preventive maintenance, records repairs, manages service history, and monitors vehicle health.
+
+### 6. Operations Manager
+
+Monitors daily logistics operations through dashboards, reports, KPIs, and AI-driven operational insights.
