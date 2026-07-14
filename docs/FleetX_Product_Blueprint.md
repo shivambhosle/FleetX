@@ -135,3 +135,51 @@ Schedules preventive maintenance, records repairs, manages service history, and 
 ### 6. Operations Manager
 
 Monitors daily logistics operations through dashboards, reports, KPIs, and AI-driven operational insights.
+
+---
+
+# 5. Product Goals
+
+FleetX is designed to become a comprehensive Logistics Operations Platform that simplifies and optimizes end-to-end fleet operations for logistics companies.
+
+The primary goals of FleetX are:
+
+## Operational Goals
+
+- Centralize all logistics operations into a single platform.
+- Improve shipment planning and dispatch efficiency.
+- Increase fleet utilization through better resource allocation.
+- Reduce operational delays by providing real-time visibility.
+- Maintain complete operational records for vehicles, drivers, and trips.
+
+---
+
+## Business Goals
+
+- Reduce fleet operating costs.
+- Improve on-time delivery performance.
+- Minimize vehicle downtime through preventive maintenance.
+- Improve fuel efficiency and operational transparency.
+- Enable data-driven decision making through analytics.
+
+---
+
+## Technology Goals
+
+- Build a scalable and modular platform that supports future expansion.
+- Design a clean and maintainable architecture following industry best practices.
+- Provide secure role-based access for different organizational users.
+- Enable seamless integration with third-party services such as GPS, Maps, ERP systems, and notification services.
+
+---
+
+## AI Goals
+
+FleetX aims to evolve into an intelligent operations platform by introducing AI-powered capabilities such as:
+
+- Predictive maintenance recommendations.
+- Intelligent vehicle and driver assignment.
+- Route optimization.
+- Fleet health monitoring.
+- Driver performance analysis.
+- Natural language operational assistant.
