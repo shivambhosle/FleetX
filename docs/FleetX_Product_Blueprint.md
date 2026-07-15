@@ -543,3 +543,107 @@ The success of FleetX will be measured by its ability to:
 - Enable data-driven decision-making.
 - Provide a scalable and maintainable platform for logistics organizations.
 
+---
+
+# 9. Product Scope
+
+## In Scope
+
+The current scope of FleetX includes:
+
+- Organization & User Management
+- Authentication & Authorization
+- Shipment Management
+- Dispatch Operations
+- Fleet Management
+- Driver Management
+- Trip Management
+- Maintenance Management
+- Fuel Management
+- Compliance & Document Management
+- Operational Dashboard
+- Analytics & Reports
+- Notifications
+- AI-powered Operational Intelligence
+
+---
+
+## Out of Scope
+
+The following functionalities are intentionally excluded from the current product scope:
+
+- Human Resource Management (HRMS)
+- Payroll Management
+- Accounting & Bookkeeping
+- Warehouse Management System (WMS)
+- Manufacturing Operations
+- Inventory Management
+- CRM & Sales Management
+- Vehicle Manufacturing & Telematics Hardware
+
+These areas may be integrated with FleetX in the future through APIs but are not part of the core platform.
+
+---
+
+# 10. Functional Requirements
+
+The platform shall provide the following capabilities:
+
+- Register and manage organizations.
+- Authenticate users securely.
+- Support role-based access control.
+- Create and manage shipments.
+- Assign drivers and vehicles to shipments.
+- Create and monitor trips.
+- Maintain vehicle records.
+- Record maintenance history.
+- Track fuel consumption.
+- Store compliance documents.
+- Generate operational reports.
+- Display analytics dashboards.
+- Send operational notifications.
+- Provide AI-powered operational recommendations.
+
+---
+
+# 11. Non-Functional Requirements
+
+FleetX shall satisfy the following quality requirements:
+
+## Performance
+
+- Fast response time for common operations.
+- Efficient handling of large operational datasets.
+
+## Scalability
+
+- Modular architecture.
+- Support for future microservice migration.
+- Horizontal scalability.
+
+## Security
+
+- JWT Authentication.
+- Role-Based Access Control.
+- Secure password storage.
+- Audit logging.
+
+## Reliability
+
+- High system availability.
+- Database integrity.
+- Automated backups.
+
+## Maintainability
+
+- Clean architecture.
+- Modular codebase.
+- Standardized APIs.
+- Comprehensive documentation.
+
+## Usability
+
+- Responsive user interface.
+- Consistent design language.
+- Intuitive navigation.
+- Accessibility-focused design.
