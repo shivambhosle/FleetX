@@ -1,0 +1,155 @@
+# FleetX System Architecture
+
+Version: 1.0
+
+---
+
+# 1. Architecture Overview
+
+FleetX follows a modular layered architecture designed for maintainability, scalability, and future cloud deployment.
+
+The system is divided into four primary layers:
+
+- Presentation Layer
+- Application Layer
+- Data Layer
+- External Integration Layer
+
+---
+
+# 2. High-Level Architecture
+
+```text
+                React Frontend
+                      │
+          REST API / WebSocket
+                      │
+              FastAPI Backend
+                      │
+ ┌────────────────────────────────────┐
+ │ Authentication Service             │
+ │ Shipment Service                   │
+ │ Dispatch Service                   │
+ │ Fleet Service                      │
+ │ Driver Service                     │
+ │ Trip Service                       │
+ │ Maintenance Service                │
+ │ Fuel Service                       │
+ │ Analytics Service                  │
+ │ Notification Service               │
+ │ AI Service                         │
+ └────────────────────────────────────┘
+                      │
+          Repository Layer
+                      │
+              PostgreSQL Database
+                      │
+     External Services (Future)
+```
+
+---
+
+# 3. Frontend Architecture
+
+The frontend is organized using a feature-based architecture.
+
+```
+src/
+
+assets/
+
+components/
+
+features/
+    auth/
+    dashboard/
+    shipment/
+    dispatch/
+    fleet/
+    driver/
+    trip/
+    maintenance/
+    fuel/
+    analytics/
+    reports/
+
+layouts/
+
+pages/
+
+services/
+
+hooks/
+
+store/
+
+routes/
+
+utils/
+
+constants/
+```
+
+---
+
+# 4. Backend Architecture
+
+The backend follows a layered architecture.
+
+```
+API Router
+      │
+      ▼
+Service Layer
+      │
+      ▼
+Repository Layer
+      │
+      ▼
+Database Layer
+```
+
+Business logic must remain inside the Service Layer.
+
+Routers should only validate requests and responses.
+
+Repositories should only interact with the database.
+
+---
+
+# 5. Module Structure
+
+Each module follows the same internal structure.
+
+Example:
+
+```
+shipment/
+
+router.py
+
+service.py
+
+repository.py
+
+model.py
+
+schema.py
+
+constants.py
+```
+
+This ensures consistency across the codebase.
+
+---
+
+# 6. Design Principles
+
+- Modular architecture
+- Separation of concerns
+- Feature-based frontend organization
+- Layered backend architecture
+- API-first development
+- Database abstraction
+- Independent AI modules
+- Future microservice compatibility
